@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://restu-tri.github.io/sitemap.xml
